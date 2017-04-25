@@ -15,3 +15,5 @@ docker run -p 5858:5858 docker-aiohttp-gunicorn
 ```
 
 You can then hit the server by navigating to http://localhost:5858 .  
+
+The walkthrough of how this project was built can be found [here](http://codevoid.io/hosting-a-python-web-service-in-gunicorn-and-docker.html).
